@@ -1,5 +1,5 @@
 ---
 title: blog
-order: 1
+order: 10
 ---
 {% include blog.html %}
