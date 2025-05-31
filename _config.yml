@@ -98,7 +98,8 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://ai801_20238069.github.io"
+baseurl: "/ai801_20238069"   # <--- Add this line
+url: "https://hyunjin72.github.io"  # <--- Add this line
 
 # Add the website title to the title of every page
 title-on-all-pages: true
